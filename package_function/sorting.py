@@ -7,10 +7,6 @@ def bubble_sort(items):
                 items[i] = items[i+1]
                 items[i+1] = temp
     return items
-<<<<<<< HEAD
-=======
-    #'''Return array of items, sorted in ascending order'''
->>>>>>> cd42e9021880b8eed6b69b53bdf9dec55f381195
 
 def merge_sort(items):
     if len(items) <= 1:
