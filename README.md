@@ -13,3 +13,4 @@ This library was created and will perform the task of returning array of items, 
 # package_function
 "# package_function" 
 # package_functions
+# functions
